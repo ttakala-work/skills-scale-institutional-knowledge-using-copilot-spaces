@@ -20,9 +20,11 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, sponsors)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Customer Support / Success should receive advance notice of changes with customer impact
+- Stakeholders / Sponsors receive escalated risk summaries and go/no-go decisions; see [docs/octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for role details
 
 ## Communication Templates
 Weekly Status Template:
