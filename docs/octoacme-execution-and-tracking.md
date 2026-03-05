@@ -15,6 +15,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+  - Engineering Lead / Tech Lead reviews PRs for complex or high-risk changes
+  - QA / Testing validates acceptance criteria and runs exploratory tests before moving to Done
 
 ## Quality & Testing
 - Unit tests for new logic
@@ -38,3 +40,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Engineering Lead / Tech Lead engaged for complex or architectural changes
+- [ ] QA / Testing involved in sprint reviews and acceptance sign-off

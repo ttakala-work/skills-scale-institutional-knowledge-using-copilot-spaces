@@ -19,6 +19,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
+- [ ] QA / Testing sign-off on staging verification
+- [ ] Customer Support / Success briefed on release: known issues, FAQs, support workflows updated
+- [ ] Key Stakeholders / Sponsors notified of release timing and expected impact
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support

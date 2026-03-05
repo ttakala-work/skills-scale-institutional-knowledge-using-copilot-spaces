@@ -32,6 +32,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Engineering Lead / Tech Lead consulted on technical feasibility and early risks
+- [ ] Design / UX input identified for any user-facing changes
+- [ ] QA / Testing awareness: note if dedicated testing resources are needed
+- [ ] Customer Support / Success notified of scope if customer-impacting
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
